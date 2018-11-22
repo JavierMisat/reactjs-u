@@ -7,11 +7,13 @@ class App extends React.Component {
         return (
             //React sin JSX
             React.createElement(
-                'h1',
-                {id: 'titulo', className: 'encabezado'},
-                'Hola Mundo'
+                'div',
+                null,
+                React.createElement(
+                    'input',
+                    {type: 'text', id: 'name', value: 'Value para hijo'},
+                )
             )
-
         );
     }
 }
