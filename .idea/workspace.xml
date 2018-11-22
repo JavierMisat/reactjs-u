@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9657e57f-1728-4ab2-892a-a4fe9a208a19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/repasojs/js/template-string.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repasojs/template-strings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repasojs/funciones.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repasojs/js/funciones.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,19 +21,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/repasojs/js/template-string.js">
+        <entry file="file://$PROJECT_DIR$/repasojs/js/funciones.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+            <state relative-caret-position="460">
+              <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repasojs/template-strings.html">
+        <entry file="file://$PROJECT_DIR$/repasojs/funciones.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state relative-caret-position="161">
+              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -44,6 +44,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -60,12 +61,14 @@
         <option value="$PROJECT_DIR$/repasojs/js/template-strings.html" />
         <option value="$PROJECT_DIR$/repasojs/template-strings.html" />
         <option value="$PROJECT_DIR$/repasojs/js/template-string.js" />
+        <option value="$PROJECT_DIR$/repasojs/funciones.html" />
+        <option value="$PROJECT_DIR$/repasojs/js/funciones.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="974" />
+    <option name="width" value="975" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -100,6 +103,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../cursojs" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -127,7 +131,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.template-strings.html">
+  <component name="RunManager" selected="JavaScript Debug.funciones.html">
+    <configuration name="funciones.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/reactjs-u/repasojs/funciones.html">
+      <method v="2" />
+    </configuration>
     <configuration name="scope.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/reactjs-u/repasojs/scope.html">
       <method v="2" />
     </configuration>
@@ -136,6 +143,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.funciones.html" />
         <item itemvalue="JavaScript Debug.template-strings.html" />
         <item itemvalue="JavaScript Debug.scope.html" />
       </list>
@@ -153,12 +161,12 @@
       <updated>1542854114322</updated>
       <workItem from="1542854115720" duration="763000" />
       <workItem from="1542854917298" duration="55000" />
-      <workItem from="1542854986822" duration="2597000" />
+      <workItem from="1542854986822" duration="5543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3415000" />
+    <option name="totallyTimeSpent" value="6361000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -170,10 +178,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="975" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17735043" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17716116" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -185,7 +193,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32890365" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32890365" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32225913" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -239,8 +247,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/repasojs/js/template-string.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+        <state relative-caret-position="263">
+          <caret line="20" column="53" lean-forward="true" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repasojs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repasojs/funciones.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repasojs/js/funciones.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
         </state>
       </provider>
     </entry>
