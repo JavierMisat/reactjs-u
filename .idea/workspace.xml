@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9657e57f-1728-4ab2-892a-a4fe9a208a19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/repasojs/funciones-parametros.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repasojs/js/funciones-parametros.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repasojs/arrow-functions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repasojs/js/arrow-functions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,11 +20,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/repasojs/js/funciones-parametros.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
               <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/repasojs/js/arrow-functions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repasojs/arrow-functions.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -67,6 +84,8 @@
         <option value="$PROJECT_DIR$/react/basicos-react/src/App.js" />
         <option value="$PROJECT_DIR$/repasojs/funciones-parametros.html" />
         <option value="$PROJECT_DIR$/repasojs/js/funciones-parametros.js" />
+        <option value="$PROJECT_DIR$/repasojs/arrow-functions.html" />
+        <option value="$PROJECT_DIR$/repasojs/js/arrow-functions.js" />
       </list>
     </option>
   </component>
@@ -143,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.funciones-parametros.js">
+  <component name="RunManager" selected="Node.js.arrow-functions.js">
     <configuration name="funciones.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/reactjs-u/repasojs/funciones.html">
       <method v="2" />
     </configuration>
@@ -151,6 +170,9 @@
       <method v="2" />
     </configuration>
     <configuration name="template-strings.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/reactjs-u/repasojs/template-strings.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="arrow-functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/repasojs/js/arrow-functions.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="funciones-parametros.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/repasojs/js/funciones-parametros.js" working-dir="$PROJECT_DIR$">
@@ -161,9 +183,11 @@
       <item itemvalue="JavaScript Debug.scope.html" />
       <item itemvalue="JavaScript Debug.template-strings.html" />
       <item itemvalue="Node.js.funciones-parametros.js" />
+      <item itemvalue="Node.js.arrow-functions.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.arrow-functions.js" />
         <item itemvalue="Node.js.funciones-parametros.js" />
         <item itemvalue="JavaScript Debug.funciones.html" />
         <item itemvalue="JavaScript Debug.template-strings.html" />
@@ -186,12 +210,12 @@
       <workItem from="1542854986822" duration="5543000" />
       <workItem from="1542929787107" duration="688000" />
       <workItem from="1542937847152" duration="1048000" />
-      <workItem from="1542940195265" duration="1834000" />
+      <workItem from="1542940195265" duration="2543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9931000" />
+    <option name="totallyTimeSpent" value="10640000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -331,6 +355,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repasojs/arrow-functions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repasojs/js/arrow-functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
