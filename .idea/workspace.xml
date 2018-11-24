@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9657e57f-1728-4ab2-892a-a4fe9a208a19" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/repasojs/js/prototypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repasojs/prototypes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repasojs/js/objetos.js" beforeDir="false" afterPath="$PROJECT_DIR$/repasojs/js/objetos.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,11 +20,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/repasojs/js/objetos.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+            <state relative-caret-position="23">
+              <caret line="1" column="30" lean-forward="true" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/repasojs/js/prototypes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="467">
+              <caret line="32" column="51" lean-forward="true" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repasojs/prototypes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -60,6 +79,8 @@
         <option value="$PROJECT_DIR$/repasojs/js/arrow-functions.js" />
         <option value="$PROJECT_DIR$/repasojs/js/object-literal.js" />
         <option value="$PROJECT_DIR$/repasojs/js/objetos.js" />
+        <option value="$PROJECT_DIR$/repasojs/prototypes.html" />
+        <option value="$PROJECT_DIR$/repasojs/js/prototypes.js" />
       </list>
     </option>
   </component>
@@ -117,6 +138,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\React JS\repasojs" />
+      <recent name="C:\xampp\htdocs\React JS\repasojs\js" />
       <recent name="C:\Users\Eimmy\WebstormProjects\reactjs-u\repasojs\js" />
       <recent name="C:\Users\Eimmy\WebstormProjects\reactjs-u\repasojs" />
     </key>
@@ -136,11 +158,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.objetos.js">
+  <component name="RunManager" selected="Node.js.prototypes.js">
     <configuration name="funciones.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/reactjs-u/repasojs/funciones.html">
-      <method v="2" />
-    </configuration>
-    <configuration name="template-strings.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/reactjs-u/repasojs/template-strings.html">
       <method v="2" />
     </configuration>
     <configuration name="arrow-functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/repasojs/js/arrow-functions.js" working-dir="$PROJECT_DIR$">
@@ -152,20 +171,23 @@
     <configuration name="objetos.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/repasojs/js/objetos.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="prototypes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/repasojs/js/prototypes.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="JavaScript Debug.funciones.html" />
-      <item itemvalue="JavaScript Debug.template-strings.html" />
       <item itemvalue="Node.js.funciones-parametros.js" />
       <item itemvalue="Node.js.arrow-functions.js" />
       <item itemvalue="Node.js.objetos.js" />
+      <item itemvalue="Node.js.prototypes.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.prototypes.js" />
         <item itemvalue="Node.js.objetos.js" />
         <item itemvalue="Node.js.arrow-functions.js" />
         <item itemvalue="Node.js.funciones-parametros.js" />
         <item itemvalue="JavaScript Debug.funciones.html" />
-        <item itemvalue="JavaScript Debug.template-strings.html" />
       </list>
     </recent_temporary>
   </component>
@@ -184,12 +206,12 @@
       <workItem from="1542854986822" duration="5543000" />
       <workItem from="1542929787107" duration="688000" />
       <workItem from="1542937847152" duration="1048000" />
-      <workItem from="1542940195265" duration="3333000" />
+      <workItem from="1542940195265" duration="5960000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11430000" />
+    <option name="totallyTimeSpent" value="14057000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -204,19 +226,19 @@
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25641027" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25641027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32995495" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24324325" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32890365" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32094595" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32094595" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -348,8 +370,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/repasojs/js/objetos.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        <state relative-caret-position="23">
+          <caret line="1" column="30" lean-forward="true" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repasojs/prototypes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repasojs/js/prototypes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="32" column="51" lean-forward="true" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
         </state>
       </provider>
     </entry>
