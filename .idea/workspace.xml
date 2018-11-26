@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9657e57f-1728-4ab2-892a-a4fe9a208a19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/repasojs/js/fiilter-find-reduce.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repasojs/js/promises.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repasojs/promises.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repasojs/js/promises-ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repasojs/promises-ajax.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,19 +20,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/repasojs/js/promises.js">
+        <entry file="file://$PROJECT_DIR$/repasojs/js/promises-ajax.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="40" />
+            <state relative-caret-position="335">
+              <caret line="33" column="6" lean-forward="true" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repasojs/promises.html">
+        <entry file="file://$PROJECT_DIR$/repasojs/promises-ajax.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            <state relative-caret-position="276">
+              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -82,6 +80,8 @@
         <option value="$PROJECT_DIR$/repasojs/js/fiilter-find-reduce.js" />
         <option value="$PROJECT_DIR$/repasojs/promises.html" />
         <option value="$PROJECT_DIR$/repasojs/js/promises.js" />
+        <option value="$PROJECT_DIR$/repasojs/promises-ajax.html" />
+        <option value="$PROJECT_DIR$/repasojs/js/promises-ajax.js" />
       </list>
     </option>
   </component>
@@ -113,12 +113,6 @@
               <item name="React JS" type="b2602c69:ProjectViewProjectNode" />
               <item name="React JS" type="462c0819:PsiDirectoryNode" />
               <item name="repasojs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="React JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="React JS" type="462c0819:PsiDirectoryNode" />
-              <item name="repasojs" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -160,8 +154,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.promises.html">
+  <component name="RunManager" selected="JavaScript Debug.promises-ajax.html">
     <configuration name="arreglos.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/React JS/repasojs/arreglos.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="promises-ajax.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/React JS/repasojs/promises-ajax.html">
       <method v="2" />
     </configuration>
     <configuration name="promises.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/React JS/repasojs/promises.html">
@@ -170,26 +167,23 @@
     <configuration name="fiilter-find-reduce.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/repasojs/js/fiilter-find-reduce.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="funcciones-objeto.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/repasojs/js/funcciones-objeto.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
     <configuration name="spread.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/repasojs/js/spread.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.arreglos.html" />
-      <item itemvalue="Node.js.funcciones-objeto.js" />
       <item itemvalue="Node.js.spread.js" />
       <item itemvalue="Node.js.fiilter-find-reduce.js" />
       <item itemvalue="JavaScript Debug.promises.html" />
+      <item itemvalue="JavaScript Debug.promises-ajax.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.promises-ajax.html" />
         <item itemvalue="JavaScript Debug.promises.html" />
         <item itemvalue="Node.js.fiilter-find-reduce.js" />
         <item itemvalue="Node.js.spread.js" />
         <item itemvalue="JavaScript Debug.arreglos.html" />
-        <item itemvalue="Node.js.funcciones-objeto.js" />
       </list>
     </recent_temporary>
   </component>
@@ -209,12 +203,12 @@
       <workItem from="1542929787107" duration="688000" />
       <workItem from="1542937847152" duration="1048000" />
       <workItem from="1542940195265" duration="14900000" />
-      <workItem from="1543232793416" duration="1638000" />
+      <workItem from="1543232793416" duration="4050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24635000" />
+    <option name="totallyTimeSpent" value="27047000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -227,8 +221,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25641027" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25641027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -240,8 +235,8 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32890365" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49893162" weight="0.2882883" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50213677" side_tool="true" visible="true" weight="0.24324325" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49786323" visible="true" weight="0.2882883" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50213677" side_tool="true" weight="0.2882883" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -458,6 +453,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repasojs/promises-ajax.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="16624" column="13" selection-start-line="16624" selection-start-column="13" selection-end-line="16624" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repasojs/js/promises-ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="33" column="6" lean-forward="true" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
         </state>
       </provider>
     </entry>
