@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9657e57f-1728-4ab2-892a-a4fe9a208a19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/repasojs/js/prototypes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repasojs/prototypes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repasojs/destructuring.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -29,11 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/repasojs/js/prototypes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="32" column="51" lean-forward="true" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+            <state relative-caret-position="667">
+              <caret line="29" column="2" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/repasojs/destructuring.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -81,6 +89,7 @@
         <option value="$PROJECT_DIR$/repasojs/js/objetos.js" />
         <option value="$PROJECT_DIR$/repasojs/prototypes.html" />
         <option value="$PROJECT_DIR$/repasojs/js/prototypes.js" />
+        <option value="$PROJECT_DIR$/repasojs/destructuring.js" />
       </list>
     </option>
   </component>
@@ -158,11 +167,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.prototypes.js">
-    <configuration name="funciones.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/reactjs-u/repasojs/funciones.html">
+  <component name="RunManager" selected="Node.js.destructuring.js">
+    <configuration name="arrow-functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/repasojs/js/arrow-functions.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="arrow-functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/repasojs/js/arrow-functions.js" working-dir="$PROJECT_DIR$">
+    <configuration name="destructuring.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/repasojs/destructuring.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="funciones-parametros.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/repasojs/js/funciones-parametros.js" working-dir="$PROJECT_DIR$">
@@ -175,19 +184,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.funciones.html" />
       <item itemvalue="Node.js.funciones-parametros.js" />
       <item itemvalue="Node.js.arrow-functions.js" />
       <item itemvalue="Node.js.objetos.js" />
       <item itemvalue="Node.js.prototypes.js" />
+      <item itemvalue="Node.js.destructuring.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.destructuring.js" />
         <item itemvalue="Node.js.prototypes.js" />
         <item itemvalue="Node.js.objetos.js" />
         <item itemvalue="Node.js.arrow-functions.js" />
         <item itemvalue="Node.js.funciones-parametros.js" />
-        <item itemvalue="JavaScript Debug.funciones.html" />
       </list>
     </recent_temporary>
   </component>
@@ -206,12 +215,12 @@
       <workItem from="1542854986822" duration="5543000" />
       <workItem from="1542929787107" duration="688000" />
       <workItem from="1542937847152" duration="1048000" />
-      <workItem from="1542940195265" duration="5960000" />
+      <workItem from="1542940195265" duration="8052000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14057000" />
+    <option name="totallyTimeSpent" value="16149000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -226,20 +235,20 @@
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25641027" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25641027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24324325" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.24324325" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32890365" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32094595" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49893162" weight="0.32094595" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50213677" side_tool="true" weight="0.24324325" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -384,8 +393,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/repasojs/js/prototypes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="32" column="51" lean-forward="true" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+        <state relative-caret-position="667">
+          <caret line="29" column="2" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repasojs/destructuring.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
         </state>
       </provider>
     </entry>
