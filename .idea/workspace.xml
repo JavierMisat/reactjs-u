@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9657e57f-1728-4ab2-892a-a4fe9a208a19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/repasojs/js/object-literal-enhacement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repasojs/arreglos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repasojs/js/arreglos-map-obkject.keys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repasojs/js/funcciones-objeto.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,10 +22,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/repasojs/js/object-literal-enhacement.js">
+        <entry file="file://$PROJECT_DIR$/repasojs/js/arreglos-map-obkject.keys.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            <state relative-caret-position="490">
+              <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repasojs/arreglos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -64,6 +75,9 @@
         <option value="$PROJECT_DIR$/repasojs/js/prototypes.js" />
         <option value="$PROJECT_DIR$/repasojs/destructuring.js" />
         <option value="$PROJECT_DIR$/repasojs/js/object-literal-enhacement.js" />
+        <option value="$PROJECT_DIR$/repasojs/js/funcciones-objeto.js" />
+        <option value="$PROJECT_DIR$/repasojs/arreglos.html" />
+        <option value="$PROJECT_DIR$/repasojs/js/arreglos-map-obkject.keys.js" />
       </list>
     </option>
   </component>
@@ -142,36 +156,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.object-literal-enhacement.js">
-    <configuration name="arrow-functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/repasojs/js/arrow-functions.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="JavaScript Debug.arreglos.html">
+    <configuration name="arreglos.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/React JS/repasojs/arreglos.html">
       <method v="2" />
     </configuration>
     <configuration name="destructuring.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/repasojs/js/destructuring.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="object-literal-enhacement.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/repasojs/js/object-literal-enhacement.js" working-dir="$PROJECT_DIR$">
+    <configuration name="funcciones-objeto.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/repasojs/js/funcciones-objeto.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="objetos.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/repasojs/js/objetos.js" working-dir="$PROJECT_DIR$">
+    <configuration name="object-literal-enhacement.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/repasojs/js/object-literal-enhacement.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="prototypes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/repasojs/js/prototypes.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.arrow-functions.js" />
-      <item itemvalue="Node.js.objetos.js" />
       <item itemvalue="Node.js.prototypes.js" />
       <item itemvalue="Node.js.destructuring.js" />
       <item itemvalue="Node.js.object-literal-enhacement.js" />
+      <item itemvalue="Node.js.funcciones-objeto.js" />
+      <item itemvalue="JavaScript Debug.arreglos.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.arreglos.html" />
+        <item itemvalue="Node.js.funcciones-objeto.js" />
         <item itemvalue="Node.js.object-literal-enhacement.js" />
         <item itemvalue="Node.js.destructuring.js" />
         <item itemvalue="Node.js.prototypes.js" />
-        <item itemvalue="Node.js.objetos.js" />
-        <item itemvalue="Node.js.arrow-functions.js" />
       </list>
     </recent_temporary>
   </component>
@@ -190,12 +204,12 @@
       <workItem from="1542854986822" duration="5543000" />
       <workItem from="1542929787107" duration="688000" />
       <workItem from="1542937847152" duration="1048000" />
-      <workItem from="1542940195265" duration="8977000" />
+      <workItem from="1542940195265" duration="12000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17074000" />
+    <option name="totallyTimeSpent" value="20097000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -210,12 +224,12 @@
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25641027" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25641027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.24324325" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.24324325" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -389,8 +403,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/repasojs/js/object-literal-enhacement.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        <state relative-caret-position="368">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repasojs/js/funcciones-objeto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repasojs/arreglos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repasojs/js/arreglos-map-obkject.keys.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
         </state>
       </provider>
     </entry>
