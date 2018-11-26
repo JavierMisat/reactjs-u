@@ -1,7 +1,7 @@
 const app = document.querySelector('#app');
 const descargarUsuarios = cantidad => new Promise((resolve, reject) => {
     //Pasar la cantidad a la api
-    const apiUrl = `https://randomuser.me/api/?results=${cantidad}&nat=us`;
+    const apiUrl = `https://randomuser.me/api/?results=${cantidad}&nat=all`;
 
     /**
      * @description llamado ajax costa de 3 o 4 partes:
@@ -71,17 +71,11 @@ function imprimirHTML(miembros) {
                         case 'dob':
                             console.log(dato);
                             break;
-                        case '':
-                            break;
-                        case '':
-                            break;
-
                     }
                 }).join('')) ;
             } else {
                 datoDevuelto = `<td>${dato}</td>`;
             }
-
             return datoDevuelto;
         }).join('')}
                     </tr>
@@ -93,7 +87,7 @@ function imprimirHTML(miembros) {
     app.appendChild(article);
 }
 
-descargarUsuarios(500)
+descargarUsuarios(50)
     .then(
         miembros => imprimirHTML(miembros),
         error => console.error(new Error(`Hubo un error : ${error}`))

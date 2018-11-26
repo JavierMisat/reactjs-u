@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9657e57f-1728-4ab2-892a-a4fe9a208a19" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/repasojs/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repasojs/js/classes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repasojs/js/promises-ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/repasojs/js/promises-ajax.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,37 +22,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/repasojs/js/promises-ajax.js">
+        <entry file="file://$PROJECT_DIR$/repasojs/js/classes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
-              <caret line="95" column="21" selection-start-line="95" selection-start-column="21" selection-end-line="95" selection-end-column="21" />
-              <folding>
-                <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="460">
+              <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repasojs/js/spread.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repasojs/js/object-literal-enhacement.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repasojs/promises-ajax.html">
+        <entry file="file://$PROJECT_DIR$/repasojs/classes.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
               <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
@@ -102,6 +84,8 @@
         <option value="$PROJECT_DIR$/repasojs/js/promises.js" />
         <option value="$PROJECT_DIR$/repasojs/promises-ajax.html" />
         <option value="$PROJECT_DIR$/repasojs/js/promises-ajax.js" />
+        <option value="$PROJECT_DIR$/repasojs/classes.html" />
+        <option value="$PROJECT_DIR$/repasojs/js/classes.js" />
       </list>
     </option>
   </component>
@@ -113,7 +97,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="974" />
+    <option name="width" value="980" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -180,8 +164,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.promises-ajax.html">
-    <configuration name="arreglos.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/React JS/repasojs/arreglos.html">
+  <component name="RunManager" selected="JavaScript Debug.classes.html">
+    <configuration name="classes.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/React JS/repasojs/classes.html">
       <method v="2" />
     </configuration>
     <configuration name="promises-ajax.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/React JS/repasojs/promises-ajax.html">
@@ -197,19 +181,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.arreglos.html" />
       <item itemvalue="Node.js.spread.js" />
       <item itemvalue="Node.js.fiilter-find-reduce.js" />
       <item itemvalue="JavaScript Debug.promises.html" />
       <item itemvalue="JavaScript Debug.promises-ajax.html" />
+      <item itemvalue="JavaScript Debug.classes.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.classes.html" />
         <item itemvalue="JavaScript Debug.promises-ajax.html" />
         <item itemvalue="JavaScript Debug.promises.html" />
         <item itemvalue="Node.js.fiilter-find-reduce.js" />
         <item itemvalue="Node.js.spread.js" />
-        <item itemvalue="JavaScript Debug.arreglos.html" />
       </list>
     </recent_temporary>
   </component>
@@ -232,12 +216,12 @@
       <workItem from="1542929787107" duration="688000" />
       <workItem from="1542937847152" duration="1048000" />
       <workItem from="1542940195265" duration="14900000" />
-      <workItem from="1543232793416" duration="12436000" />
+      <workItem from="1543232793416" duration="18049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35433000" />
+    <option name="totallyTimeSpent" value="41046000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -249,10 +233,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="980" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25641027" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23931624" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -264,7 +248,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32890365" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49786323" weight="0.2882883" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49786323" weight="0.3198198" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50213677" side_tool="true" weight="0.2882883" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -501,11 +485,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/repasojs/js/promises-ajax.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="95" column="21" selection-start-line="95" selection-start-column="21" selection-end-line="95" selection-end-column="21" />
+        <state relative-caret-position="161">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
           <folding>
             <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repasojs/classes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repasojs/js/classes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
         </state>
       </provider>
     </entry>
