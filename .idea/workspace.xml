@@ -32,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/repasojs/modulos/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="23">
-              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+              <caret line="1" column="40" lean-forward="true" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -46,20 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/repasojs/modulos/js/tareas.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/repasojs/modulos/js/compras.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="31" selection-start-column="31" selection-end-column="31" />
+            <state relative-caret-position="391">
+              <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -84,9 +75,9 @@
         <option value="$PROJECT_DIR$/repasojs/modulos/tarea.js" />
         <option value="$PROJECT_DIR$/repasojs/modulos/js/tarea.js" />
         <option value="$PROJECT_DIR$/repasojs/modulos/index.html" />
-        <option value="$PROJECT_DIR$/repasojs/modulos/js/tareas.js" />
         <option value="$PROJECT_DIR$/repasojs/modulos/js/app.js" />
         <option value="$PROJECT_DIR$/repasojs/modulos/js/compras.js" />
+        <option value="$PROJECT_DIR$/repasojs/modulos/js/tareas.js" />
       </list>
     </option>
   </component>
@@ -210,18 +201,18 @@
       <workItem from="1542854917298" duration="55000" />
       <workItem from="1542854986822" duration="13577000" />
       <workItem from="1543463464407" duration="195000" />
-      <workItem from="1543463678949" duration="4198000" />
+      <workItem from="1543463678949" duration="4382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4246000" />
+    <option name="totallyTimeSpent" value="4430000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="975" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23265742" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21237993" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -296,13 +287,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/repasojs/modulos/js/tareas.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/repasojs/js/classes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -313,14 +297,21 @@
     <entry file="file://$PROJECT_DIR$/repasojs/modulos/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <caret line="1" column="40" lean-forward="true" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/repasojs/modulos/js/compras.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        <state relative-caret-position="92">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repasojs/modulos/js/tareas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
         </state>
       </provider>
     </entry>

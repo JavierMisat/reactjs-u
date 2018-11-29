@@ -1,5 +1,4 @@
 //Escribir classes
-
 export default class Tareas {
     constructor(nombre = 'Tareas default', prioridad = null) {
         this.nombre = nombre;
