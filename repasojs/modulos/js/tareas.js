@@ -1,5 +1,5 @@
 //Escribir classes
-class Tarea {
+ class Tareas {
     constructor(nombre = 'Tareas default', prioridad = null) {
         this.nombre = nombre;
         this.prioridad = prioridad;
@@ -13,7 +13,7 @@ class Tarea {
     }
 }
 
-class ComprasPendientes extends Tarea {
+class ComprasPendientes extends Tareas {
     constructor(nombre, prioridad, cantidad) {
         super(nombre, prioridad);
         this.cantidad = cantidad;
@@ -21,15 +21,20 @@ class ComprasPendientes extends Tarea {
 
     mostrar() {
         super.mostrar();
-       console.log(`Y una cantidad de ${this.cantidad}`);
+        console.log(`Y una cantidad de ${this.cantidad}`);
     }
 }
 
+export default {
+    tareas: Tareas,
+    compras: ComprasPendientes
+}
+
 //Crear objetos
-let tarea1 = new Tarea('Estudiar', 'Alta');
-let tarea2 = new Tarea('Aprender Javascript', 'Alta');
-let tarea3 = new Tarea('Terminar pagina', 'Alta');
-let tarea4 = new Tarea('ALmorzar', 'Alta');
+let tarea1 = new Tareas('Estudiar', 'Alta');
+let tarea2 = new Tareas('Aprender Javascript', 'Alta');
+let tarea3 = new Tareas('Terminar pagina', 'Alta');
+let tarea4 = new Tareas('ALmorzar', 'Alta');
 
 tarea1.mostrar();
 tarea2.mostrar();
@@ -37,5 +42,6 @@ tarea3.mostrar();
 tarea4.mostrar();
 
 //Compras
-let compra1 = new ComprasPendientes('Jabon', 'Urgente', 10);
+export  let compra1 = new ComprasPendientes('Jabon', 'Urgente', 10);
 compra1.mostrar();
+
