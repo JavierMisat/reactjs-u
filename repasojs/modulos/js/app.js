@@ -1,4 +1,5 @@
-import  compras from './tareas.js';
+import  Tareas from './tareas.js';
+import {crearTarea} from "./tareas.js";
 
-
-console.log(compras);
+const tarea1 = crearTarea('Programar', 'urgente');
+console.log(tarea1);
