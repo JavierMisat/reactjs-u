@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import './css/index.css';
 import * as serviceWorker from './serviceWorker';
+import PrimerComponente from "./components/PrimerComponente";
 
 const imagen = React.createElement(
     'div',
@@ -14,7 +14,7 @@ const imagen = React.createElement(
     )
 );
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<PrimerComponente />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Notse this comes with some pitfalls.
