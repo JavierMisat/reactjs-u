@@ -1,10 +1,11 @@
 import React, {Component} from 'react';
+import Header from "./Header";
 
 class PrimerComponente extends Component{
         render() {
             return(
                 <React.Fragment>
-                    <h1 className='mayusculas'>Hola mundo</h1>
+                    <Header/>
                     <p>Hola Munndo desde mi primer componente </p>;
                 </React.Fragment>
             );

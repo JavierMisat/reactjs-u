@@ -1,0 +1,41 @@
+COMPONENTES
+- Permiten separar el codigo y los elementos de tu interfeaz
+  en pequeñas piezas reutilizables que estarán asoladas una de otras.
+-Los componentes son como funciones de JS
+-Puedes pasarle datos a un componente por medio de algo llamado PROPS (Propiedades).
+
+
+EL UNICO METODO OBLIGATORIO EN UN COMPONENTE ES EL METODO RENDER excepto si se
+esta creando un functional component
+
+TIPOS DE COMPONENTES EN REACT JS
+-Class Component, ejemplo;
+
+class App extends React.Component{
+    render(){
+        return(
+            <p>Hola Mundo</p>
+        );
+    }
+}
+
+
+
+-Functional Component, tambien conocidos como Stateless Functional Component Ejemplo:
+const App = (Props) => (
+    <p>Hola Mundo</p>
+);
+
+*VENTAJAS:
+-Facil de crear y leer
+-Menos código
+-Facil de testear
+-Mo puedes usar la palabra this
+-Se dice que tiene mejor perormance
+*DESVENTAJAS
+-No se puede usar metodos del ciclo de vida (ComponentDidMount, ComponentDidUpdate)
+-No tienen State
+-No puedes usar refs
+- Si se necesitan cualquiera de las 3 carencias es mejor usar un Class Component
+
+
