@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e08838fe-27a8-4ac5-94f5-0415f28919ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/react/basicos-react/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/basicos-react/src/introduccion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/basicos-react/src/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/basicos-react/src/components/Productos.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/basicos-react/src/components/PrimerComponente.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/basicos-react/src/components/PrimerComponente.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/basicos-react/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/basicos-react/src/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/basicos-react/src/components/PrimerComponente.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/basicos-react/src/components/Aplicacion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/basicos-react/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/basicos-react/src/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/react/basicos-react/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,26 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react/basicos-react/public/index.html">
+        <entry file="file://$PROJECT_DIR$/react/basicos-react/src/components/Aplicacion.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-447" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react/basicos-react/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/react/basicos-react/src/components/PrimerComponente.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="414">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -50,26 +36,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/react/basicos-react/src/components/Header.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="161">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/react/basicos-react/src/components/Productos.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react/basicos-react/src/introduccion.txt">
+        <entry file="file://$PROJECT_DIR$/react/basicos-react/src/Footer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+            <state relative-caret-position="253">
+              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react/basicos-react/src/css/App.css">
+        <entry file="file://$PROJECT_DIR$/react/basicos-react/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+            <state relative-caret-position="92">
+              <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -99,10 +94,13 @@
         <option value="$PROJECT_DIR$/repasojs/modulos/js/tareas.js" />
         <option value="$PROJECT_DIR$/react/basicos-react/src/App.css" />
         <option value="$PROJECT_DIR$/react/basicos-react/src/App.js" />
-        <option value="$PROJECT_DIR$/react/basicos-react/src/index.js" />
-        <option value="$PROJECT_DIR$/react/basicos-react/src/components/PrimerComponente.js" />
         <option value="$PROJECT_DIR$/react/basicos-react/src/introduccion.txt" />
+        <option value="$PROJECT_DIR$/react/basicos-react/src/components/PrimerComponente.js" />
+        <option value="$PROJECT_DIR$/react/basicos-react/src/index.js" />
+        <option value="$PROJECT_DIR$/react/basicos-react/src/Footer.js" />
         <option value="$PROJECT_DIR$/react/basicos-react/src/components/Header.js" />
+        <option value="$PROJECT_DIR$/react/basicos-react/src/components/Aplicacion.js" />
+        <option value="$PROJECT_DIR$/react/basicos-react/src/components/Productos.js" />
       </list>
     </option>
   </component>
@@ -243,31 +241,31 @@
       <workItem from="1542854986822" duration="13577000" />
       <workItem from="1543463464407" duration="195000" />
       <workItem from="1543463678949" duration="5196000" />
-      <workItem from="1544047485574" duration="7344000" />
+      <workItem from="1544047485574" duration="9763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12588000" />
+    <option name="totallyTimeSpent" value="15007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21260683" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21260683" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32890365" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32890365" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32890365" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32890365" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32890365" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.25581396" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.25581396" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -365,11 +363,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react/basicos-react/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-447" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/repasojs/js/classes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
@@ -407,12 +400,8 @@
     <entry file="file://$PROJECT_DIR$/react/basicos-react/src/css/index.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/react/basicos-react/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/react/basicos-react/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/react/basicos-react/src/introduccion.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -421,20 +410,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react/basicos-react/src/components/Header.js">
+    <entry file="file://$PROJECT_DIR$/react/basicos-react/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="92">
+          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react/basicos-react/src/components/PrimerComponente.js">
+    <entry file="file://$PROJECT_DIR$/react/basicos-react/src/Footer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="22" />
+        <state relative-caret-position="253">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react/basicos-react/src/components/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react/basicos-react/src/components/Aplicacion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react/basicos-react/src/components/Productos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>

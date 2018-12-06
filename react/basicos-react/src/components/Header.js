@@ -1,8 +1,10 @@
-import React, {Component} from 'react';
+import React from 'react';
 
-const Header = () => {
+const Header = (props) => {
     return (
-        <h1 className='mayusculas'>Nombre del sitio </h1>
+        <header>
+            <h1>{props.titulo}</h1>
+        </header>
     )
 };
 
