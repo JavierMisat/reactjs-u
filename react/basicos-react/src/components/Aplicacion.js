@@ -2,7 +2,6 @@ import React, {Component} from 'react';
 import Header from "./Header";
 import Peliculas from "./Peliculas";
 import Footer from "../Footer";
-import Pelicula from "./Pelicula";
 
 class Aplicacion extends Component {
 
@@ -63,7 +62,7 @@ class Aplicacion extends Component {
         return (
             <React.Fragment>
                 <Header
-                    titulo='Nuestra Tienda Virtual'/>
+                    titulo='Peliculas Disponibles'/>
                 <Peliculas
                 peliculas={this.state.peliculas}/>
                 <Footer/>
