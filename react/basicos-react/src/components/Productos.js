@@ -1,15 +1,19 @@
 import React, {Component} from "react";
+import Producto from "./Producto";
 
-class Productos extends Component{
+class Productos extends Component {
     render() {
-        return(
-           <div>
-               <h2>Listado de productos</h2>
-               {this.props.productos.forEach(producto =>{
-                 return `<p>Nombre: ${producto.nombre}</p>`
-               })}
-           </div>
+        return (
+            <div>
+                <h2>Listado de productos</h2>
+                {Object.keys(this.props.productos).map(key => (
+                    <Producto
+                        key={key}
+                        producto={this.props.productos[key]}/>
+                ))}
+            </div>
         );
     }
 }
+
 export default Productos;

@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e08838fe-27a8-4ac5-94f5-0415f28919ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/react/basicos-react/src/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/basicos-react/src/components/Productos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/basicos-react/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/basicos-react/src/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/basicos-react/src/components/PrimerComponente.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/basicos-react/src/components/Aplicacion.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/basicos-react/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/basicos-react/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/basicos-react/src/components/Producto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/basicos-react/src/components/Productos.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/basicos-react/src/components/Productos.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/react/basicos-react/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -42,11 +38,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/react/basicos-react/src/components/Productos.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
-              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/react/basicos-react/src/components/Producto.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="62" lean-forward="true" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -101,6 +109,7 @@
         <option value="$PROJECT_DIR$/react/basicos-react/src/components/Header.js" />
         <option value="$PROJECT_DIR$/react/basicos-react/src/components/Aplicacion.js" />
         <option value="$PROJECT_DIR$/react/basicos-react/src/components/Productos.js" />
+        <option value="$PROJECT_DIR$/react/basicos-react/src/components/Producto.js" />
       </list>
     </option>
   </component>
@@ -241,31 +250,31 @@
       <workItem from="1542854986822" duration="13577000" />
       <workItem from="1543463464407" duration="195000" />
       <workItem from="1543463678949" duration="5196000" />
-      <workItem from="1544047485574" duration="9763000" />
+      <workItem from="1544047485574" duration="10702000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15007000" />
+    <option name="totallyTimeSpent" value="15946000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21260683" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21260683" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32890365" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32890365" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32890365" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32890365" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32890365" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.25581396" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.25581396" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -444,7 +453,17 @@
     <entry file="file://$PROJECT_DIR$/react/basicos-react/src/components/Productos.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react/basicos-react/src/components/Producto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="62" lean-forward="true" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
         </state>
       </provider>
     </entry>
