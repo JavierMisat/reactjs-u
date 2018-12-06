@@ -1,6 +1,6 @@
 //Areglos y .map
 
-const carrito = ['Producto 1','Producto 2','Producto 3',];
+const carrito = ['Pelicula 1','Pelicula 2','Pelicula 3',];
 
 const appContenedor = document.querySelector('#app');
 const ul = document.createElement('ul');
