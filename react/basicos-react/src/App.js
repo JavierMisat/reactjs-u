@@ -11,7 +11,7 @@ class App extends React.Component {
                 null,
                 React.createElement(
                     'input',
-                    {type: 'text', id: 'name', value: 'Value para hijo'},
+                    {'type': 'text', value: 'Valor de input'}
                 )
             )
         );
