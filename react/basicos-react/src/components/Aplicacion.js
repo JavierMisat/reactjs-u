@@ -62,7 +62,8 @@ class Aplicacion extends Component {
         return (
             <React.Fragment>
                 <Header
-                    titulo='Peliculas Disponibles'/>
+                    titulo='Peliculas Disponibles
+                    '/>
                 <Peliculas
                 peliculas={this.state.peliculas}/>
                 <Footer/>
